@@ -23,3 +23,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_habits: yes
+          plugin_habits_charts: yes
