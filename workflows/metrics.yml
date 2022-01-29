@@ -14,3 +14,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AKORA-Studios
+          
+          config_timezone: Europe/Berlin
+          plugin_followup: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_contributors: yes
+          plugin_achievements: yes
+          plugin_habits: yes
