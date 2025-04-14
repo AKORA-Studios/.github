@@ -213,14 +213,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.69400592116244" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="153.69400592116244" y="0" width="140.93458169710706" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="294.6285876182695" y="0" width="77.78505477514517" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="372.41364239341465" y="0" width="33.64812569731791" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="406.0617680907325" y="0" width="22.63902432596263" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="428.70079241669515" y="0" width="18.398343128728182" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="447.09913554542334" y="0" width="7.986826731325058" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.0859622767484" y="0" width="4.914037723251544" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.45180196705272" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="155.45180196705272" y="0" width="140.12580140803243" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="295.5776033750851" y="0" width="77.33867023042119" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="372.9162736055063" y="0" width="33.455029435913566" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="406.3713030414199" y="0" width="22.509105916880664" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="428.88040895830056" y="0" width="18.292760686896212" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="447.17316964519677" y="0" width="7.940992785144035" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.1141624303408" y="0" width="4.885837569659173" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -279,7 +279,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
             </section>
             <section class="habits">
@@ -307,8 +307,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -367,8 +367,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -387,8 +387,8 @@
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
@@ -413,8 +413,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -470,7 +470,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Apr 2025, 04:51:06 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2025, 03:26:38 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
